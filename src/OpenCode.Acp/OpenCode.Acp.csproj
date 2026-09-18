@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <AssemblyName>OpenCode.Acp</AssemblyName>
+    <RootNamespace>OpenCode.Acp</RootNamespace>
+    <Version>0.4.0</Version>
+    <Description>OpenCode ACP wrapper for Visual Studio 2022.</Description>
+  </PropertyGroup>
+</Project>
