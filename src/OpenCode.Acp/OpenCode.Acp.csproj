@@ -5,7 +5,7 @@
     <RootNamespace>OpenCode.Acp</RootNamespace>
     <Version>1.0.0</Version>
 	<PackageId>OpenCode.Acp</PackageId>
-	<PackageVersion>0.1.0</PackageVersion>
+	<PackageVersion>1.0.0</PackageVersion>
 
 	<Title>OpenCode.Acp</Title>
 
