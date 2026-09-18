@@ -1,9 +1,9 @@
 using System.Collections.Concurrent;
-using OpenCode.Acp.Protocol;
-using OpenCode.Acp.Rpc;
-using OpenCode.Acp.Transport;
+using OpenCodeSharp.Acp.Protocol;
+using OpenCodeSharp.Acp.Rpc;
+using OpenCodeSharp.Acp.Transport;
 
-namespace OpenCode.Acp;
+namespace OpenCodeSharp.Acp;
 
 public sealed class OpenCodeAcpClient : IAsyncDisposable
 {

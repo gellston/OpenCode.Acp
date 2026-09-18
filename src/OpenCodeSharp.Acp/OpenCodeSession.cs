@@ -1,7 +1,7 @@
 using System.Collections.Concurrent;
-using OpenCode.Acp.Protocol;
+using OpenCodeSharp.Acp.Protocol;
 
-namespace OpenCode.Acp;
+namespace OpenCodeSharp.Acp;
 
 public sealed class OpenCodeSession
 {

@@ -1,10 +1,10 @@
 using System.Collections.Concurrent;
 using System.Text.Json;
-using OpenCode.Acp.Permissions;
-using OpenCode.Acp.Protocol;
-using OpenCode.Acp.Transport;
+using OpenCodeSharp.Acp.Permissions;
+using OpenCodeSharp.Acp.Protocol;
+using OpenCodeSharp.Acp.Transport;
 
-namespace OpenCode.Acp.Rpc;
+namespace OpenCodeSharp.Acp.Rpc;
 
 internal sealed class JsonRpcConnection : IAsyncDisposable
 {

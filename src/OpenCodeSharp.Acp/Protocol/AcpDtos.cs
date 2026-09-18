@@ -1,7 +1,7 @@
 using System.Text.Json;
 using System.Text.Json.Serialization;
 
-namespace OpenCode.Acp.Protocol;
+namespace OpenCodeSharp.Acp.Protocol;
 
 public sealed class InitializeParams
 {
@@ -36,7 +36,7 @@ public sealed class FileSystemCapabilities
 public sealed class ClientInfo
 {
     [JsonPropertyName("name")]
-    public string Name { get; init; } = "OpenCode.Acp";
+    public string Name { get; init; } = "OpenCodeSharp.Acp";
 
     [JsonPropertyName("version")]
     public string Version { get; init; } = "0.4.0";

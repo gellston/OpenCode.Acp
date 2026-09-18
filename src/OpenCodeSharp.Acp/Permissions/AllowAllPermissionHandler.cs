@@ -1,6 +1,6 @@
-using OpenCode.Acp.Protocol;
+using OpenCodeSharp.Acp.Protocol;
 
-namespace OpenCode.Acp.Permissions;
+namespace OpenCodeSharp.Acp.Permissions;
 
 public sealed class AllowAllPermissionHandler : IAcpPermissionHandler
 {

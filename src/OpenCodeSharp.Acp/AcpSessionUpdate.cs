@@ -1,6 +1,6 @@
 using System.Text.Json;
 
-namespace OpenCode.Acp;
+namespace OpenCodeSharp.Acp;
 
 internal sealed class AcpSessionUpdate
 {

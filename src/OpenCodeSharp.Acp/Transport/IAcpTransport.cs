@@ -1,4 +1,4 @@
-namespace OpenCode.Acp.Transport;
+namespace OpenCodeSharp.Acp.Transport;
 
 internal interface IAcpTransport : IAsyncDisposable
 {

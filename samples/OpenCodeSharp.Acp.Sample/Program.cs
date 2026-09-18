@@ -1,6 +1,6 @@
 using System.Text;
-using OpenCode.Acp;
-using OpenCode.Acp.Permissions;
+using OpenCodeSharp.Acp;
+using OpenCodeSharp.Acp.Permissions;
 
 if (OperatingSystem.IsWindows())
 {

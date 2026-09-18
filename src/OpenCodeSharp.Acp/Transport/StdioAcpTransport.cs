@@ -1,7 +1,7 @@
 using System.Diagnostics;
 using System.Text;
 
-namespace OpenCode.Acp.Transport;
+namespace OpenCodeSharp.Acp.Transport;
 
 internal sealed class StdioAcpTransport : IAcpTransport
 {

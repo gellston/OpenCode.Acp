@@ -1,4 +1,4 @@
-# OpenCode.Acp
+# OpenCodeSharp.Acp
 
 Visual Studio 2022용 C# OpenCode ACP wrapper입니다.
 
@@ -130,7 +130,7 @@ ACP stdin/stdout/stderr는 UTF-8 no-BOM으로 처리합니다. Windows에서는 
 Visual Studio 2022에서 다음 솔루션을 엽니다.
 
 ```text
-OpenCode.Acp.sln
+OpenCodeSharp.Acp.sln
 ```
 
 또는 CMD:

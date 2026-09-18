@@ -1,6 +1,6 @@
-using OpenCode.Acp.Permissions;
+using OpenCodeSharp.Acp.Permissions;
 
-namespace OpenCode.Acp;
+namespace OpenCodeSharp.Acp;
 
 public sealed class OpenCodeAcpOptions
 {
